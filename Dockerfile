@@ -1,6 +1,6 @@
 ARG version=5
 FROM weseek/growi:${version}
-LABEL growi 5.1 <yuki@weseek.co.jp>
+LABEL growi 5.2 <yuki@weseek.co.jp>
 
 # install dockerize
 ENV DOCKERIZE_VERSION v0.6.1
