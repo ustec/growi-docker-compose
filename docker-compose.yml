@@ -59,6 +59,6 @@ services:
 
 volumes:
   growi_data:
-  mongo_configdb:
-  mongo_db:
-  es_data:
+  # mongo_configdb:
+  # mongo_db:
+  # es_data:
